@@ -5,6 +5,7 @@ class Dog
   
   def bark= ("Woof!")
    puts "woof!"
+  end
 end 
 
 
